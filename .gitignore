@@ -1,0 +1,28 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Media files
+*.mp4
+*.avi
+*.mov
+
+# Logs
+*.log
