@@ -7,8 +7,8 @@ flatbuffers==25.9.23
 fonttools==4.60.1
 importlib_metadata==8.7.0
 importlib_resources==6.5.2
-jax==0.4.30
-jaxlib==0.4.30
+jax==0.4.34
+jaxlib==0.4.34
 kiwisolver==1.4.7
 matplotlib==3.9.4
 mediapipe==0.10.21
