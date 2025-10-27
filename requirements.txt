@@ -13,14 +13,14 @@ kiwisolver==1.4.7
 matplotlib==3.9.4
 mediapipe==0.10.21
 mkl-service==2.5.2
-mkl_fft @ file:///C:/b/abs_64riv3lfyn/croot/mkl_fft_1751310924052/work
-mkl_random @ file:///C:/b/abs_47jvsmau4j/croot/mkl_random_1751310922820/work
+mkl_fft
+mkl_random
 ml_dtypes==0.5.3
-numpy @ file:///C:/b/abs_81ri0q57xq/croot/numpy_and_numpy_base_1755590863635/work/dist/numpy-1.26.4-cp39-cp39-win_amd64.whl#sha256=fb32ac616c403cd3962459034d608ce9daef8ff811cc8639c324d08dfdd5beb5
+numpy==1.26.4
 opencv-contrib-python==4.11.0.86
 opt_einsum==3.4.0
 packaging==25.0
-pillow==11.3.0
+pillow==11.3.1
 protobuf==4.25.8
 pycparser==2.23
 pyparsing==3.2.5
